@@ -1,33 +1,19 @@
 # Basico
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Primera Página | GitHub</title>
-    <style>
-        body {
-            font-family: sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            background-color: #f4f4f9;
-        }
-        .container {
-            text-align: center;
-            padding: 2rem;
-            background: white;
-            border-radius: 10px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-        }
-        h1 { color: #333; }
-        p { color: #666; }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>¡Hola, GitHub!</h1>
-        <p>Esta es la página de <strong>solucionesdp-lab</strong>.</p>
-        <p>El inicio de alg
+
+Este es un proyecto básico que utiliza **GitHub Pages** para mostrar una página web sencilla.
+
+[🌐 Ver la página en vivo](https://solucionesdp-lab.github.io/basico/)
+
+## Descripción
+
+El sitio contiene una página principal centrada, con un mensaje de bienvenida y el inicio de algo increíble. El archivo principal es `index.html`.
+
+## ¿Cómo se creó?
+
+1. Se creó un archivo `index.html` en la raíz del repositorio.
+2. Se activó GitHub Pages desde la configuración del repositorio.
+3. ¡Listo! Ahora tu sitio está público en Internet 🚀
+
+---
+
+¡Bienvenido a tu primer sitio web con GitHub Pages!
