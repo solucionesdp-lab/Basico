@@ -30,7 +30,4 @@
     <div class="container">
         <h1>¡Hola, GitHub!</h1>
         <p>Esta es la página de <strong>solucionesdp-lab</strong>.</p>
-        <p>El inicio de algo increíble.</p>
-    </div>
-</body>
-</html>
+        <p>El inicio de alg
